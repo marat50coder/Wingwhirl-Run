@@ -1,0 +1,2524 @@
+{
+ "chickens": [
+  {
+   "index": 0,
+   "file": "assets/sprites/chickens/chickens_00.png",
+   "w": 172,
+   "h": 213
+  },
+  {
+   "index": 1,
+   "file": "assets/sprites/chickens/chickens_01.png",
+   "w": 165,
+   "h": 209
+  },
+  {
+   "index": 2,
+   "file": "assets/sprites/chickens/chickens_02.png",
+   "w": 165,
+   "h": 215
+  },
+  {
+   "index": 3,
+   "file": "assets/sprites/chickens/chickens_03.png",
+   "w": 157,
+   "h": 212
+  },
+  {
+   "index": 4,
+   "file": "assets/sprites/chickens/chickens_04.png",
+   "w": 158,
+   "h": 213
+  },
+  {
+   "index": 5,
+   "file": "assets/sprites/chickens/chickens_05.png",
+   "w": 158,
+   "h": 214
+  },
+  {
+   "index": 6,
+   "file": "assets/sprites/chickens/chickens_06.png",
+   "w": 164,
+   "h": 215
+  },
+  {
+   "index": 7,
+   "file": "assets/sprites/chickens/chickens_07.png",
+   "w": 165,
+   "h": 214
+  },
+  {
+   "index": 8,
+   "file": "assets/sprites/chickens/chickens_08.png",
+   "w": 161,
+   "h": 215
+  },
+  {
+   "index": 9,
+   "file": "assets/sprites/chickens/chickens_09.png",
+   "w": 159,
+   "h": 205
+  },
+  {
+   "index": 10,
+   "file": "assets/sprites/chickens/chickens_10.png",
+   "w": 141,
+   "h": 204
+  },
+  {
+   "index": 11,
+   "file": "assets/sprites/chickens/chickens_11.png",
+   "w": 136,
+   "h": 202
+  },
+  {
+   "index": 12,
+   "file": "assets/sprites/chickens/chickens_12.png",
+   "w": 139,
+   "h": 190
+  },
+  {
+   "index": 13,
+   "file": "assets/sprites/chickens/chickens_13.png",
+   "w": 138,
+   "h": 198
+  },
+  {
+   "index": 14,
+   "file": "assets/sprites/chickens/chickens_14.png",
+   "w": 141,
+   "h": 195
+  },
+  {
+   "index": 15,
+   "file": "assets/sprites/chickens/chickens_15.png",
+   "w": 146,
+   "h": 205
+  },
+  {
+   "index": 16,
+   "file": "assets/sprites/chickens/chickens_16.png",
+   "w": 149,
+   "h": 205
+  },
+  {
+   "index": 17,
+   "file": "assets/sprites/chickens/chickens_17.png",
+   "w": 144,
+   "h": 199
+  },
+  {
+   "index": 18,
+   "file": "assets/sprites/chickens/chickens_18.png",
+   "w": 138,
+   "h": 196
+  },
+  {
+   "index": 19,
+   "file": "assets/sprites/chickens/chickens_19.png",
+   "w": 136,
+   "h": 196
+  },
+  {
+   "index": 20,
+   "file": "assets/sprites/chickens/chickens_20.png",
+   "w": 149,
+   "h": 208
+  },
+  {
+   "index": 21,
+   "file": "assets/sprites/chickens/chickens_21.png",
+   "w": 139,
+   "h": 209
+  },
+  {
+   "index": 22,
+   "file": "assets/sprites/chickens/chickens_22.png",
+   "w": 138,
+   "h": 214
+  },
+  {
+   "index": 23,
+   "file": "assets/sprites/chickens/chickens_23.png",
+   "w": 138,
+   "h": 204
+  },
+  {
+   "index": 24,
+   "file": "assets/sprites/chickens/chickens_24.png",
+   "w": 138,
+   "h": 213
+  },
+  {
+   "index": 25,
+   "file": "assets/sprites/chickens/chickens_25.png",
+   "w": 140,
+   "h": 206
+  },
+  {
+   "index": 26,
+   "file": "assets/sprites/chickens/chickens_26.png",
+   "w": 145,
+   "h": 207
+  },
+  {
+   "index": 27,
+   "file": "assets/sprites/chickens/chickens_27.png",
+   "w": 140,
+   "h": 209
+  },
+  {
+   "index": 28,
+   "file": "assets/sprites/chickens/chickens_28.png",
+   "w": 150,
+   "h": 209
+  },
+  {
+   "index": 29,
+   "file": "assets/sprites/chickens/chickens_29.png",
+   "w": 141,
+   "h": 204
+  }
+ ],
+ "fish": [
+  {
+   "index": 0,
+   "file": "assets/sprites/fish/fish_00.png",
+   "w": 197,
+   "h": 114
+  },
+  {
+   "index": 1,
+   "file": "assets/sprites/fish/fish_01.png",
+   "w": 171,
+   "h": 121
+  },
+  {
+   "index": 2,
+   "file": "assets/sprites/fish/fish_02.png",
+   "w": 193,
+   "h": 111
+  },
+  {
+   "index": 3,
+   "file": "assets/sprites/fish/fish_03.png",
+   "w": 195,
+   "h": 123
+  },
+  {
+   "index": 4,
+   "file": "assets/sprites/fish/fish_04.png",
+   "w": 198,
+   "h": 114
+  },
+  {
+   "index": 5,
+   "file": "assets/sprites/fish/fish_05.png",
+   "w": 195,
+   "h": 103
+  },
+  {
+   "index": 6,
+   "file": "assets/sprites/fish/fish_06.png",
+   "w": 155,
+   "h": 108
+  },
+  {
+   "index": 7,
+   "file": "assets/sprites/fish/fish_07.png",
+   "w": 175,
+   "h": 109
+  },
+  {
+   "index": 8,
+   "file": "assets/sprites/fish/fish_08.png",
+   "w": 174,
+   "h": 120
+  },
+  {
+   "index": 9,
+   "file": "assets/sprites/fish/fish_09.png",
+   "w": 172,
+   "h": 111
+  },
+  {
+   "index": 10,
+   "file": "assets/sprites/fish/fish_10.png",
+   "w": 178,
+   "h": 127
+  },
+  {
+   "index": 11,
+   "file": "assets/sprites/fish/fish_11.png",
+   "w": 162,
+   "h": 123
+  },
+  {
+   "index": 12,
+   "file": "assets/sprites/fish/fish_12.png",
+   "w": 208,
+   "h": 108
+  },
+  {
+   "index": 13,
+   "file": "assets/sprites/fish/fish_13.png",
+   "w": 220,
+   "h": 92
+  },
+  {
+   "index": 14,
+   "file": "assets/sprites/fish/fish_14.png",
+   "w": 159,
+   "h": 119
+  },
+  {
+   "index": 15,
+   "file": "assets/sprites/fish/fish_15.png",
+   "w": 182,
+   "h": 117
+  },
+  {
+   "index": 16,
+   "file": "assets/sprites/fish/fish_16.png",
+   "w": 188,
+   "h": 113
+  },
+  {
+   "index": 17,
+   "file": "assets/sprites/fish/fish_17.png",
+   "w": 155,
+   "h": 110
+  },
+  {
+   "index": 18,
+   "file": "assets/sprites/fish/fish_18.png",
+   "w": 193,
+   "h": 110
+  },
+  {
+   "index": 19,
+   "file": "assets/sprites/fish/fish_19.png",
+   "w": 160,
+   "h": 115
+  },
+  {
+   "index": 20,
+   "file": "assets/sprites/fish/fish_20.png",
+   "w": 159,
+   "h": 121
+  },
+  {
+   "index": 21,
+   "file": "assets/sprites/fish/fish_21.png",
+   "w": 186,
+   "h": 112
+  },
+  {
+   "index": 22,
+   "file": "assets/sprites/fish/fish_22.png",
+   "w": 144,
+   "h": 121
+  },
+  {
+   "index": 23,
+   "file": "assets/sprites/fish/fish_23.png",
+   "w": 183,
+   "h": 108
+  },
+  {
+   "index": 24,
+   "file": "assets/sprites/fish/fish_24.png",
+   "w": 171,
+   "h": 127
+  },
+  {
+   "index": 25,
+   "file": "assets/sprites/fish/fish_25.png",
+   "w": 180,
+   "h": 119
+  },
+  {
+   "index": 26,
+   "file": "assets/sprites/fish/fish_26.png",
+   "w": 195,
+   "h": 99
+  },
+  {
+   "index": 27,
+   "file": "assets/sprites/fish/fish_27.png",
+   "w": 180,
+   "h": 112
+  },
+  {
+   "index": 28,
+   "file": "assets/sprites/fish/fish_28.png",
+   "w": 153,
+   "h": 100
+  },
+  {
+   "index": 29,
+   "file": "assets/sprites/fish/fish_29.png",
+   "w": 218,
+   "h": 100
+  },
+  {
+   "index": 30,
+   "file": "assets/sprites/fish/fish_30.png",
+   "w": 133,
+   "h": 120
+  },
+  {
+   "index": 31,
+   "file": "assets/sprites/fish/fish_31.png",
+   "w": 205,
+   "h": 124
+  },
+  {
+   "index": 32,
+   "file": "assets/sprites/fish/fish_32.png",
+   "w": 224,
+   "h": 85
+  },
+  {
+   "index": 33,
+   "file": "assets/sprites/fish/fish_33.png",
+   "w": 187,
+   "h": 104
+  },
+  {
+   "index": 34,
+   "file": "assets/sprites/fish/fish_34.png",
+   "w": 172,
+   "h": 108
+  },
+  {
+   "index": 35,
+   "file": "assets/sprites/fish/fish_35.png",
+   "w": 154,
+   "h": 109
+  },
+  {
+   "index": 36,
+   "file": "assets/sprites/fish/fish_36.png",
+   "w": 184,
+   "h": 102
+  },
+  {
+   "index": 37,
+   "file": "assets/sprites/fish/fish_37.png",
+   "w": 205,
+   "h": 115
+  },
+  {
+   "index": 38,
+   "file": "assets/sprites/fish/fish_38.png",
+   "w": 202,
+   "h": 101
+  },
+  {
+   "index": 39,
+   "file": "assets/sprites/fish/fish_39.png",
+   "w": 210,
+   "h": 101
+  },
+  {
+   "index": 40,
+   "file": "assets/sprites/fish/fish_40.png",
+   "w": 184,
+   "h": 116
+  },
+  {
+   "index": 41,
+   "file": "assets/sprites/fish/fish_41.png",
+   "w": 185,
+   "h": 113
+  },
+  {
+   "index": 42,
+   "file": "assets/sprites/fish/fish_42.png",
+   "w": 183,
+   "h": 120
+  },
+  {
+   "index": 43,
+   "file": "assets/sprites/fish/fish_43.png",
+   "w": 195,
+   "h": 111
+  },
+  {
+   "index": 44,
+   "file": "assets/sprites/fish/fish_44.png",
+   "w": 206,
+   "h": 101
+  },
+  {
+   "index": 45,
+   "file": "assets/sprites/fish/fish_45.png",
+   "w": 211,
+   "h": 116
+  },
+  {
+   "index": 46,
+   "file": "assets/sprites/fish/fish_46.png",
+   "w": 188,
+   "h": 115
+  },
+  {
+   "index": 47,
+   "file": "assets/sprites/fish/fish_47.png",
+   "w": 192,
+   "h": 117
+  }
+ ],
+ "eggs": [
+  {
+   "index": 0,
+   "file": "assets/sprites/eggs/eggs_00.png",
+   "w": 197,
+   "h": 261
+  },
+  {
+   "index": 1,
+   "file": "assets/sprites/eggs/eggs_01.png",
+   "w": 207,
+   "h": 261
+  },
+  {
+   "index": 2,
+   "file": "assets/sprites/eggs/eggs_02.png",
+   "w": 198,
+   "h": 262
+  },
+  {
+   "index": 3,
+   "file": "assets/sprites/eggs/eggs_03.png",
+   "w": 204,
+   "h": 261
+  },
+  {
+   "index": 4,
+   "file": "assets/sprites/eggs/eggs_04.png",
+   "w": 204,
+   "h": 261
+  },
+  {
+   "index": 5,
+   "file": "assets/sprites/eggs/eggs_05.png",
+   "w": 217,
+   "h": 283
+  },
+  {
+   "index": 6,
+   "file": "assets/sprites/eggs/eggs_06.png",
+   "w": 217,
+   "h": 299
+  },
+  {
+   "index": 7,
+   "file": "assets/sprites/eggs/eggs_07.png",
+   "w": 214,
+   "h": 289
+  },
+  {
+   "index": 8,
+   "file": "assets/sprites/eggs/eggs_08.png",
+   "w": 220,
+   "h": 292
+  },
+  {
+   "index": 9,
+   "file": "assets/sprites/eggs/eggs_09.png",
+   "w": 250,
+   "h": 309
+  }
+ ],
+ "coins": [
+  {
+   "index": 0,
+   "file": "assets/sprites/coins/coins_00.png",
+   "w": 132,
+   "h": 135
+  },
+  {
+   "index": 1,
+   "file": "assets/sprites/coins/coins_01.png",
+   "w": 112,
+   "h": 134
+  },
+  {
+   "index": 2,
+   "file": "assets/sprites/coins/coins_02.png",
+   "w": 75,
+   "h": 133
+  },
+  {
+   "index": 3,
+   "file": "assets/sprites/coins/coins_03.png",
+   "w": 128,
+   "h": 134
+  },
+  {
+   "index": 4,
+   "file": "assets/sprites/coins/coins_04.png",
+   "w": 65,
+   "h": 133
+  },
+  {
+   "index": 5,
+   "file": "assets/sprites/coins/coins_05.png",
+   "w": 119,
+   "h": 135
+  },
+  {
+   "index": 6,
+   "file": "assets/sprites/coins/coins_06.png",
+   "w": 131,
+   "h": 135
+  },
+  {
+   "index": 7,
+   "file": "assets/sprites/coins/coins_07.png",
+   "w": 138,
+   "h": 140
+  },
+  {
+   "index": 8,
+   "file": "assets/sprites/coins/coins_08.png",
+   "w": 115,
+   "h": 67
+  },
+  {
+   "index": 9,
+   "file": "assets/sprites/coins/coins_09.png",
+   "w": 120,
+   "h": 87
+  },
+  {
+   "index": 10,
+   "file": "assets/sprites/coins/coins_10.png",
+   "w": 116,
+   "h": 104
+  },
+  {
+   "index": 11,
+   "file": "assets/sprites/coins/coins_11.png",
+   "w": 120,
+   "h": 124
+  },
+  {
+   "index": 12,
+   "file": "assets/sprites/coins/coins_12.png",
+   "w": 223,
+   "h": 119
+  },
+  {
+   "index": 13,
+   "file": "assets/sprites/coins/coins_13.png",
+   "w": 304,
+   "h": 139
+  },
+  {
+   "index": 14,
+   "file": "assets/sprites/coins/coins_14.png",
+   "w": 212,
+   "h": 132
+  },
+  {
+   "index": 15,
+   "file": "assets/sprites/coins/coins_15.png",
+   "w": 298,
+   "h": 199
+  },
+  {
+   "index": 16,
+   "file": "assets/sprites/coins/coins_16.png",
+   "w": 362,
+   "h": 212
+  },
+  {
+   "index": 17,
+   "file": "assets/sprites/coins/coins_17.png",
+   "w": 393,
+   "h": 200
+  }
+ ],
+ "equipment": [
+  {
+   "index": 0,
+   "file": "assets/sprites/equipment/equipment_00.png",
+   "w": 548,
+   "h": 97
+  },
+  {
+   "index": 1,
+   "file": "assets/sprites/equipment/equipment_01.png",
+   "w": 472,
+   "h": 101
+  },
+  {
+   "index": 2,
+   "file": "assets/sprites/equipment/equipment_02.png",
+   "w": 523,
+   "h": 102
+  },
+  {
+   "index": 3,
+   "file": "assets/sprites/equipment/equipment_03.png",
+   "w": 166,
+   "h": 147
+  },
+  {
+   "index": 4,
+   "file": "assets/sprites/equipment/equipment_04.png",
+   "w": 166,
+   "h": 147
+  },
+  {
+   "index": 5,
+   "file": "assets/sprites/equipment/equipment_05.png",
+   "w": 165,
+   "h": 148
+  },
+  {
+   "index": 6,
+   "file": "assets/sprites/equipment/equipment_06.png",
+   "w": 165,
+   "h": 149
+  },
+  {
+   "index": 7,
+   "file": "assets/sprites/equipment/equipment_07.png",
+   "w": 175,
+   "h": 149
+  },
+  {
+   "index": 8,
+   "file": "assets/sprites/equipment/equipment_08.png",
+   "w": 171,
+   "h": 148
+  },
+  {
+   "index": 9,
+   "file": "assets/sprites/equipment/equipment_09.png",
+   "w": 161,
+   "h": 147
+  },
+  {
+   "index": 10,
+   "file": "assets/sprites/equipment/equipment_10.png",
+   "w": 163,
+   "h": 145
+  },
+  {
+   "index": 11,
+   "file": "assets/sprites/equipment/equipment_11.png",
+   "w": 124,
+   "h": 89
+  },
+  {
+   "index": 12,
+   "file": "assets/sprites/equipment/equipment_12.png",
+   "w": 127,
+   "h": 90
+  },
+  {
+   "index": 13,
+   "file": "assets/sprites/equipment/equipment_13.png",
+   "w": 126,
+   "h": 92
+  },
+  {
+   "index": 14,
+   "file": "assets/sprites/equipment/equipment_14.png",
+   "w": 127,
+   "h": 92
+  },
+  {
+   "index": 15,
+   "file": "assets/sprites/equipment/equipment_15.png",
+   "w": 126,
+   "h": 91
+  },
+  {
+   "index": 16,
+   "file": "assets/sprites/equipment/equipment_16.png",
+   "w": 125,
+   "h": 92
+  },
+  {
+   "index": 17,
+   "file": "assets/sprites/equipment/equipment_17.png",
+   "w": 124,
+   "h": 90
+  },
+  {
+   "index": 18,
+   "file": "assets/sprites/equipment/equipment_18.png",
+   "w": 76,
+   "h": 119
+  },
+  {
+   "index": 19,
+   "file": "assets/sprites/equipment/equipment_19.png",
+   "w": 67,
+   "h": 113
+  },
+  {
+   "index": 20,
+   "file": "assets/sprites/equipment/equipment_20.png",
+   "w": 67,
+   "h": 116
+  },
+  {
+   "index": 21,
+   "file": "assets/sprites/equipment/equipment_21.png",
+   "w": 63,
+   "h": 114
+  },
+  {
+   "index": 22,
+   "file": "assets/sprites/equipment/equipment_22.png",
+   "w": 85,
+   "h": 105
+  },
+  {
+   "index": 23,
+   "file": "assets/sprites/equipment/equipment_23.png",
+   "w": 88,
+   "h": 129
+  },
+  {
+   "index": 24,
+   "file": "assets/sprites/equipment/equipment_24.png",
+   "w": 56,
+   "h": 132
+  },
+  {
+   "index": 25,
+   "file": "assets/sprites/equipment/equipment_25.png",
+   "w": 76,
+   "h": 134
+  },
+  {
+   "index": 26,
+   "file": "assets/sprites/equipment/equipment_26.png",
+   "w": 46,
+   "h": 129
+  },
+  {
+   "index": 27,
+   "file": "assets/sprites/equipment/equipment_27.png",
+   "w": 64,
+   "h": 125
+  },
+  {
+   "index": 28,
+   "file": "assets/sprites/equipment/equipment_28.png",
+   "w": 75,
+   "h": 127
+  },
+  {
+   "index": 29,
+   "file": "assets/sprites/equipment/equipment_29.png",
+   "w": 59,
+   "h": 134
+  },
+  {
+   "index": 30,
+   "file": "assets/sprites/equipment/equipment_30.png",
+   "w": 125,
+   "h": 109
+  },
+  {
+   "index": 31,
+   "file": "assets/sprites/equipment/equipment_31.png",
+   "w": 124,
+   "h": 104
+  },
+  {
+   "index": 32,
+   "file": "assets/sprites/equipment/equipment_32.png",
+   "w": 124,
+   "h": 100
+  },
+  {
+   "index": 33,
+   "file": "assets/sprites/equipment/equipment_33.png",
+   "w": 122,
+   "h": 99
+  },
+  {
+   "index": 34,
+   "file": "assets/sprites/equipment/equipment_34.png",
+   "w": 121,
+   "h": 99
+  },
+  {
+   "index": 35,
+   "file": "assets/sprites/equipment/equipment_35.png",
+   "w": 175,
+   "h": 134
+  },
+  {
+   "index": 36,
+   "file": "assets/sprites/equipment/equipment_36.png",
+   "w": 177,
+   "h": 135
+  },
+  {
+   "index": 37,
+   "file": "assets/sprites/equipment/equipment_37.png",
+   "w": 179,
+   "h": 134
+  },
+  {
+   "index": 38,
+   "file": "assets/sprites/equipment/equipment_38.png",
+   "w": 183,
+   "h": 132
+  },
+  {
+   "index": 39,
+   "file": "assets/sprites/equipment/equipment_39.png",
+   "w": 150,
+   "h": 159
+  },
+  {
+   "index": 40,
+   "file": "assets/sprites/equipment/equipment_40.png",
+   "w": 156,
+   "h": 151
+  },
+  {
+   "index": 41,
+   "file": "assets/sprites/equipment/equipment_41.png",
+   "w": 128,
+   "h": 139
+  },
+  {
+   "index": 42,
+   "file": "assets/sprites/equipment/equipment_42.png",
+   "w": 140,
+   "h": 134
+  },
+  {
+   "index": 43,
+   "file": "assets/sprites/equipment/equipment_43.png",
+   "w": 79,
+   "h": 128
+  },
+  {
+   "index": 44,
+   "file": "assets/sprites/equipment/equipment_44.png",
+   "w": 42,
+   "h": 146
+  },
+  {
+   "index": 45,
+   "file": "assets/sprites/equipment/equipment_45.png",
+   "w": 55,
+   "h": 155
+  }
+ ],
+ "rewards": [
+  {
+   "index": 0,
+   "file": "assets/sprites/rewards/rewards_00.png",
+   "w": 209,
+   "h": 176
+  },
+  {
+   "index": 1,
+   "file": "assets/sprites/rewards/rewards_01.png",
+   "w": 207,
+   "h": 174
+  },
+  {
+   "index": 2,
+   "file": "assets/sprites/rewards/rewards_02.png",
+   "w": 200,
+   "h": 175
+  },
+  {
+   "index": 3,
+   "file": "assets/sprites/rewards/rewards_03.png",
+   "w": 194,
+   "h": 173
+  },
+  {
+   "index": 4,
+   "file": "assets/sprites/rewards/rewards_04.png",
+   "w": 197,
+   "h": 173
+  },
+  {
+   "index": 5,
+   "file": "assets/sprites/rewards/rewards_05.png",
+   "w": 193,
+   "h": 177
+  },
+  {
+   "index": 6,
+   "file": "assets/sprites/rewards/rewards_06.png",
+   "w": 198,
+   "h": 173
+  },
+  {
+   "index": 7,
+   "file": "assets/sprites/rewards/rewards_07.png",
+   "w": 166,
+   "h": 182
+  },
+  {
+   "index": 8,
+   "file": "assets/sprites/rewards/rewards_08.png",
+   "w": 189,
+   "h": 188
+  },
+  {
+   "index": 9,
+   "file": "assets/sprites/rewards/rewards_09.png",
+   "w": 181,
+   "h": 177
+  },
+  {
+   "index": 10,
+   "file": "assets/sprites/rewards/rewards_10.png",
+   "w": 179,
+   "h": 185
+  },
+  {
+   "index": 11,
+   "file": "assets/sprites/rewards/rewards_11.png",
+   "w": 203,
+   "h": 189
+  },
+  {
+   "index": 12,
+   "file": "assets/sprites/rewards/rewards_12.png",
+   "w": 198,
+   "h": 181
+  },
+  {
+   "index": 13,
+   "file": "assets/sprites/rewards/rewards_13.png",
+   "w": 171,
+   "h": 187
+  },
+  {
+   "index": 14,
+   "file": "assets/sprites/rewards/rewards_14.png",
+   "w": 178,
+   "h": 179
+  },
+  {
+   "index": 15,
+   "file": "assets/sprites/rewards/rewards_15.png",
+   "w": 181,
+   "h": 181
+  },
+  {
+   "index": 16,
+   "file": "assets/sprites/rewards/rewards_16.png",
+   "w": 168,
+   "h": 177
+  },
+  {
+   "index": 17,
+   "file": "assets/sprites/rewards/rewards_17.png",
+   "w": 170,
+   "h": 176
+  },
+  {
+   "index": 18,
+   "file": "assets/sprites/rewards/rewards_18.png",
+   "w": 164,
+   "h": 174
+  },
+  {
+   "index": 19,
+   "file": "assets/sprites/rewards/rewards_19.png",
+   "w": 153,
+   "h": 174
+  },
+  {
+   "index": 20,
+   "file": "assets/sprites/rewards/rewards_20.png",
+   "w": 154,
+   "h": 176
+  },
+  {
+   "index": 21,
+   "file": "assets/sprites/rewards/rewards_21.png",
+   "w": 155,
+   "h": 175
+  },
+  {
+   "index": 22,
+   "file": "assets/sprites/rewards/rewards_22.png",
+   "w": 168,
+   "h": 176
+  },
+  {
+   "index": 23,
+   "file": "assets/sprites/rewards/rewards_23.png",
+   "w": 186,
+   "h": 190
+  },
+  {
+   "index": 24,
+   "file": "assets/sprites/rewards/rewards_24.png",
+   "w": 91,
+   "h": 108
+  },
+  {
+   "index": 25,
+   "file": "assets/sprites/rewards/rewards_25.png",
+   "w": 127,
+   "h": 129
+  },
+  {
+   "index": 26,
+   "file": "assets/sprites/rewards/rewards_26.png",
+   "w": 77,
+   "h": 66
+  },
+  {
+   "index": 27,
+   "file": "assets/sprites/rewards/rewards_27.png",
+   "w": 58,
+   "h": 58
+  },
+  {
+   "index": 28,
+   "file": "assets/sprites/rewards/rewards_28.png",
+   "w": 73,
+   "h": 76
+  }
+ ],
+ "water": [
+  {
+   "index": 0,
+   "file": "assets/sprites/water/water_00.png",
+   "w": 267,
+   "h": 133
+  },
+  {
+   "index": 1,
+   "file": "assets/sprites/water/water_01.png",
+   "w": 33,
+   "h": 33
+  },
+  {
+   "index": 2,
+   "file": "assets/sprites/water/water_02.png",
+   "w": 256,
+   "h": 143
+  },
+  {
+   "index": 3,
+   "file": "assets/sprites/water/water_03.png",
+   "w": 33,
+   "h": 30
+  },
+  {
+   "index": 4,
+   "file": "assets/sprites/water/water_04.png",
+   "w": 123,
+   "h": 60
+  },
+  {
+   "index": 5,
+   "file": "assets/sprites/water/water_05.png",
+   "w": 170,
+   "h": 85
+  },
+  {
+   "index": 6,
+   "file": "assets/sprites/water/water_06.png",
+   "w": 28,
+   "h": 29
+  },
+  {
+   "index": 7,
+   "file": "assets/sprites/water/water_07.png",
+   "w": 29,
+   "h": 27
+  },
+  {
+   "index": 8,
+   "file": "assets/sprites/water/water_08.png",
+   "w": 173,
+   "h": 95
+  },
+  {
+   "index": 9,
+   "file": "assets/sprites/water/water_09.png",
+   "w": 28,
+   "h": 29
+  },
+  {
+   "index": 10,
+   "file": "assets/sprites/water/water_10.png",
+   "w": 31,
+   "h": 32
+  },
+  {
+   "index": 11,
+   "file": "assets/sprites/water/water_11.png",
+   "w": 115,
+   "h": 64
+  },
+  {
+   "index": 12,
+   "file": "assets/sprites/water/water_12.png",
+   "w": 179,
+   "h": 101
+  },
+  {
+   "index": 13,
+   "file": "assets/sprites/water/water_13.png",
+   "w": 33,
+   "h": 34
+  },
+  {
+   "index": 14,
+   "file": "assets/sprites/water/water_14.png",
+   "w": 32,
+   "h": 30
+  },
+  {
+   "index": 15,
+   "file": "assets/sprites/water/water_15.png",
+   "w": 188,
+   "h": 93
+  },
+  {
+   "index": 16,
+   "file": "assets/sprites/water/water_16.png",
+   "w": 32,
+   "h": 29
+  },
+  {
+   "index": 17,
+   "file": "assets/sprites/water/water_17.png",
+   "w": 30,
+   "h": 31
+  },
+  {
+   "index": 18,
+   "file": "assets/sprites/water/water_18.png",
+   "w": 28,
+   "h": 30
+  },
+  {
+   "index": 19,
+   "file": "assets/sprites/water/water_19.png",
+   "w": 32,
+   "h": 30
+  },
+  {
+   "index": 20,
+   "file": "assets/sprites/water/water_20.png",
+   "w": 27,
+   "h": 27
+  },
+  {
+   "index": 21,
+   "file": "assets/sprites/water/water_21.png",
+   "w": 39,
+   "h": 38
+  },
+  {
+   "index": 22,
+   "file": "assets/sprites/water/water_22.png",
+   "w": 31,
+   "h": 26
+  },
+  {
+   "index": 23,
+   "file": "assets/sprites/water/water_23.png",
+   "w": 28,
+   "h": 28
+  },
+  {
+   "index": 24,
+   "file": "assets/sprites/water/water_24.png",
+   "w": 32,
+   "h": 30
+  },
+  {
+   "index": 25,
+   "file": "assets/sprites/water/water_25.png",
+   "w": 148,
+   "h": 44
+  },
+  {
+   "index": 26,
+   "file": "assets/sprites/water/water_26.png",
+   "w": 174,
+   "h": 45
+  },
+  {
+   "index": 27,
+   "file": "assets/sprites/water/water_27.png",
+   "w": 187,
+   "h": 48
+  },
+  {
+   "index": 28,
+   "file": "assets/sprites/water/water_28.png",
+   "w": 247,
+   "h": 53
+  },
+  {
+   "index": 29,
+   "file": "assets/sprites/water/water_29.png",
+   "w": 245,
+   "h": 55
+  },
+  {
+   "index": 30,
+   "file": "assets/sprites/water/water_30.png",
+   "w": 249,
+   "h": 56
+  },
+  {
+   "index": 31,
+   "file": "assets/sprites/water/water_31.png",
+   "w": 236,
+   "h": 53
+  },
+  {
+   "index": 32,
+   "file": "assets/sprites/water/water_32.png",
+   "w": 67,
+   "h": 39
+  },
+  {
+   "index": 33,
+   "file": "assets/sprites/water/water_33.png",
+   "w": 65,
+   "h": 62
+  },
+  {
+   "index": 34,
+   "file": "assets/sprites/water/water_34.png",
+   "w": 31,
+   "h": 30
+  },
+  {
+   "index": 35,
+   "file": "assets/sprites/water/water_35.png",
+   "w": 73,
+   "h": 74
+  },
+  {
+   "index": 36,
+   "file": "assets/sprites/water/water_36.png",
+   "w": 63,
+   "h": 64
+  },
+  {
+   "index": 37,
+   "file": "assets/sprites/water/water_37.png",
+   "w": 84,
+   "h": 67
+  },
+  {
+   "index": 38,
+   "file": "assets/sprites/water/water_38.png",
+   "w": 59,
+   "h": 59
+  },
+  {
+   "index": 39,
+   "file": "assets/sprites/water/water_39.png",
+   "w": 87,
+   "h": 50
+  },
+  {
+   "index": 40,
+   "file": "assets/sprites/water/water_40.png",
+   "w": 35,
+   "h": 34
+  },
+  {
+   "index": 41,
+   "file": "assets/sprites/water/water_41.png",
+   "w": 39,
+   "h": 38
+  },
+  {
+   "index": 42,
+   "file": "assets/sprites/water/water_42.png",
+   "w": 32,
+   "h": 31
+  },
+  {
+   "index": 43,
+   "file": "assets/sprites/water/water_43.png",
+   "w": 63,
+   "h": 42
+  },
+  {
+   "index": 44,
+   "file": "assets/sprites/water/water_44.png",
+   "w": 29,
+   "h": 28
+  },
+  {
+   "index": 45,
+   "file": "assets/sprites/water/water_45.png",
+   "w": 55,
+   "h": 71
+  },
+  {
+   "index": 46,
+   "file": "assets/sprites/water/water_46.png",
+   "w": 195,
+   "h": 81
+  },
+  {
+   "index": 47,
+   "file": "assets/sprites/water/water_47.png",
+   "w": 157,
+   "h": 60
+  },
+  {
+   "index": 48,
+   "file": "assets/sprites/water/water_48.png",
+   "w": 160,
+   "h": 58
+  },
+  {
+   "index": 49,
+   "file": "assets/sprites/water/water_49.png",
+   "w": 160,
+   "h": 75
+  },
+  {
+   "index": 50,
+   "file": "assets/sprites/water/water_50.png",
+   "w": 90,
+   "h": 57
+  },
+  {
+   "index": 51,
+   "file": "assets/sprites/water/water_51.png",
+   "w": 74,
+   "h": 37
+  },
+  {
+   "index": 52,
+   "file": "assets/sprites/water/water_52.png",
+   "w": 95,
+   "h": 46
+  },
+  {
+   "index": 53,
+   "file": "assets/sprites/water/water_53.png",
+   "w": 97,
+   "h": 48
+  },
+  {
+   "index": 54,
+   "file": "assets/sprites/water/water_54.png",
+   "w": 117,
+   "h": 59
+  },
+  {
+   "index": 55,
+   "file": "assets/sprites/water/water_55.png",
+   "w": 101,
+   "h": 72
+  },
+  {
+   "index": 56,
+   "file": "assets/sprites/water/water_56.png",
+   "w": 112,
+   "h": 68
+  },
+  {
+   "index": 57,
+   "file": "assets/sprites/water/water_57.png",
+   "w": 97,
+   "h": 55
+  },
+  {
+   "index": 58,
+   "file": "assets/sprites/water/water_58.png",
+   "w": 106,
+   "h": 50
+  },
+  {
+   "index": 59,
+   "file": "assets/sprites/water/water_59.png",
+   "w": 129,
+   "h": 75
+  },
+  {
+   "index": 60,
+   "file": "assets/sprites/water/water_60.png",
+   "w": 119,
+   "h": 68
+  },
+  {
+   "index": 61,
+   "file": "assets/sprites/water/water_61.png",
+   "w": 140,
+   "h": 82
+  },
+  {
+   "index": 62,
+   "file": "assets/sprites/water/water_62.png",
+   "w": 109,
+   "h": 83
+  },
+  {
+   "index": 63,
+   "file": "assets/sprites/water/water_63.png",
+   "w": 116,
+   "h": 64
+  },
+  {
+   "index": 64,
+   "file": "assets/sprites/water/water_64.png",
+   "w": 115,
+   "h": 80
+  },
+  {
+   "index": 65,
+   "file": "assets/sprites/water/water_65.png",
+   "w": 90,
+   "h": 39
+  },
+  {
+   "index": 66,
+   "file": "assets/sprites/water/water_66.png",
+   "w": 111,
+   "h": 76
+  },
+  {
+   "index": 67,
+   "file": "assets/sprites/water/water_67.png",
+   "w": 100,
+   "h": 73
+  },
+  {
+   "index": 68,
+   "file": "assets/sprites/water/water_68.png",
+   "w": 101,
+   "h": 58
+  },
+  {
+   "index": 69,
+   "file": "assets/sprites/water/water_69.png",
+   "w": 110,
+   "h": 56
+  },
+  {
+   "index": 70,
+   "file": "assets/sprites/water/water_70.png",
+   "w": 104,
+   "h": 59
+  },
+  {
+   "index": 71,
+   "file": "assets/sprites/water/water_71.png",
+   "w": 70,
+   "h": 55
+  },
+  {
+   "index": 72,
+   "file": "assets/sprites/water/water_72.png",
+   "w": 74,
+   "h": 56
+  },
+  {
+   "index": 73,
+   "file": "assets/sprites/water/water_73.png",
+   "w": 91,
+   "h": 65
+  },
+  {
+   "index": 74,
+   "file": "assets/sprites/water/water_74.png",
+   "w": 97,
+   "h": 68
+  },
+  {
+   "index": 75,
+   "file": "assets/sprites/water/water_75.png",
+   "w": 78,
+   "h": 63
+  },
+  {
+   "index": 76,
+   "file": "assets/sprites/water/water_76.png",
+   "w": 98,
+   "h": 70
+  },
+  {
+   "index": 77,
+   "file": "assets/sprites/water/water_77.png",
+   "w": 92,
+   "h": 67
+  },
+  {
+   "index": 78,
+   "file": "assets/sprites/water/water_78.png",
+   "w": 101,
+   "h": 35
+  },
+  {
+   "index": 79,
+   "file": "assets/sprites/water/water_79.png",
+   "w": 120,
+   "h": 56
+  },
+  {
+   "index": 80,
+   "file": "assets/sprites/water/water_80.png",
+   "w": 131,
+   "h": 66
+  },
+  {
+   "index": 81,
+   "file": "assets/sprites/water/water_81.png",
+   "w": 120,
+   "h": 70
+  },
+  {
+   "index": 82,
+   "file": "assets/sprites/water/water_82.png",
+   "w": 114,
+   "h": 96
+  },
+  {
+   "index": 83,
+   "file": "assets/sprites/water/water_83.png",
+   "w": 123,
+   "h": 105
+  },
+  {
+   "index": 84,
+   "file": "assets/sprites/water/water_84.png",
+   "w": 117,
+   "h": 98
+  },
+  {
+   "index": 85,
+   "file": "assets/sprites/water/water_85.png",
+   "w": 114,
+   "h": 115
+  },
+  {
+   "index": 86,
+   "file": "assets/sprites/water/water_86.png",
+   "w": 110,
+   "h": 107
+  },
+  {
+   "index": 87,
+   "file": "assets/sprites/water/water_87.png",
+   "w": 177,
+   "h": 125
+  },
+  {
+   "index": 88,
+   "file": "assets/sprites/water/water_88.png",
+   "w": 95,
+   "h": 34
+  }
+ ],
+ "nature": [
+  {
+   "index": 0,
+   "file": "assets/sprites/nature/nature_00.png",
+   "w": 175,
+   "h": 139
+  },
+  {
+   "index": 1,
+   "file": "assets/sprites/nature/nature_01.png",
+   "w": 162,
+   "h": 165
+  },
+  {
+   "index": 2,
+   "file": "assets/sprites/nature/nature_02.png",
+   "w": 168,
+   "h": 164
+  },
+  {
+   "index": 3,
+   "file": "assets/sprites/nature/nature_03.png",
+   "w": 156,
+   "h": 144
+  },
+  {
+   "index": 4,
+   "file": "assets/sprites/nature/nature_04.png",
+   "w": 157,
+   "h": 124
+  },
+  {
+   "index": 5,
+   "file": "assets/sprites/nature/nature_05.png",
+   "w": 120,
+   "h": 130
+  },
+  {
+   "index": 6,
+   "file": "assets/sprites/nature/nature_06.png",
+   "w": 139,
+   "h": 116
+  },
+  {
+   "index": 7,
+   "file": "assets/sprites/nature/nature_07.png",
+   "w": 162,
+   "h": 120
+  },
+  {
+   "index": 8,
+   "file": "assets/sprites/nature/nature_08.png",
+   "w": 207,
+   "h": 95
+  },
+  {
+   "index": 9,
+   "file": "assets/sprites/nature/nature_09.png",
+   "w": 179,
+   "h": 144
+  },
+  {
+   "index": 10,
+   "file": "assets/sprites/nature/nature_10.png",
+   "w": 181,
+   "h": 136
+  },
+  {
+   "index": 11,
+   "file": "assets/sprites/nature/nature_11.png",
+   "w": 164,
+   "h": 137
+  },
+  {
+   "index": 12,
+   "file": "assets/sprites/nature/nature_12.png",
+   "w": 174,
+   "h": 157
+  },
+  {
+   "index": 13,
+   "file": "assets/sprites/nature/nature_13.png",
+   "w": 175,
+   "h": 171
+  },
+  {
+   "index": 14,
+   "file": "assets/sprites/nature/nature_14.png",
+   "w": 182,
+   "h": 186
+  },
+  {
+   "index": 15,
+   "file": "assets/sprites/nature/nature_15.png",
+   "w": 154,
+   "h": 190
+  },
+  {
+   "index": 16,
+   "file": "assets/sprites/nature/nature_16.png",
+   "w": 87,
+   "h": 182
+  },
+  {
+   "index": 17,
+   "file": "assets/sprites/nature/nature_17.png",
+   "w": 155,
+   "h": 109
+  },
+  {
+   "index": 18,
+   "file": "assets/sprites/nature/nature_18.png",
+   "w": 118,
+   "h": 126
+  },
+  {
+   "index": 19,
+   "file": "assets/sprites/nature/nature_19.png",
+   "w": 130,
+   "h": 159
+  },
+  {
+   "index": 20,
+   "file": "assets/sprites/nature/nature_20.png",
+   "w": 177,
+   "h": 145
+  },
+  {
+   "index": 21,
+   "file": "assets/sprites/nature/nature_21.png",
+   "w": 153,
+   "h": 121
+  },
+  {
+   "index": 22,
+   "file": "assets/sprites/nature/nature_22.png",
+   "w": 202,
+   "h": 162
+  },
+  {
+   "index": 23,
+   "file": "assets/sprites/nature/nature_23.png",
+   "w": 115,
+   "h": 88
+  },
+  {
+   "index": 24,
+   "file": "assets/sprites/nature/nature_24.png",
+   "w": 137,
+   "h": 91
+  },
+  {
+   "index": 25,
+   "file": "assets/sprites/nature/nature_25.png",
+   "w": 97,
+   "h": 77
+  },
+  {
+   "index": 26,
+   "file": "assets/sprites/nature/nature_26.png",
+   "w": 137,
+   "h": 93
+  },
+  {
+   "index": 27,
+   "file": "assets/sprites/nature/nature_27.png",
+   "w": 160,
+   "h": 86
+  },
+  {
+   "index": 28,
+   "file": "assets/sprites/nature/nature_28.png",
+   "w": 135,
+   "h": 69
+  },
+  {
+   "index": 29,
+   "file": "assets/sprites/nature/nature_29.png",
+   "w": 163,
+   "h": 80
+  },
+  {
+   "index": 30,
+   "file": "assets/sprites/nature/nature_30.png",
+   "w": 210,
+   "h": 97
+  },
+  {
+   "index": 31,
+   "file": "assets/sprites/nature/nature_31.png",
+   "w": 135,
+   "h": 91
+  },
+  {
+   "index": 32,
+   "file": "assets/sprites/nature/nature_32.png",
+   "w": 154,
+   "h": 82
+  },
+  {
+   "index": 33,
+   "file": "assets/sprites/nature/nature_33.png",
+   "w": 136,
+   "h": 97
+  },
+  {
+   "index": 34,
+   "file": "assets/sprites/nature/nature_34.png",
+   "w": 105,
+   "h": 100
+  },
+  {
+   "index": 35,
+   "file": "assets/sprites/nature/nature_35.png",
+   "w": 80,
+   "h": 78
+  },
+  {
+   "index": 36,
+   "file": "assets/sprites/nature/nature_36.png",
+   "w": 86,
+   "h": 68
+  },
+  {
+   "index": 37,
+   "file": "assets/sprites/nature/nature_37.png",
+   "w": 155,
+   "h": 111
+  },
+  {
+   "index": 38,
+   "file": "assets/sprites/nature/nature_38.png",
+   "w": 154,
+   "h": 116
+  }
+ ],
+ "shore": [
+  {
+   "index": 0,
+   "file": "assets/sprites/shore/shore_00.png",
+   "w": 213,
+   "h": 150
+  },
+  {
+   "index": 1,
+   "file": "assets/sprites/shore/shore_01.png",
+   "w": 180,
+   "h": 137
+  },
+  {
+   "index": 2,
+   "file": "assets/sprites/shore/shore_02.png",
+   "w": 215,
+   "h": 155
+  },
+  {
+   "index": 3,
+   "file": "assets/sprites/shore/shore_03.png",
+   "w": 228,
+   "h": 133
+  },
+  {
+   "index": 4,
+   "file": "assets/sprites/shore/shore_04.png",
+   "w": 211,
+   "h": 134
+  },
+  {
+   "index": 5,
+   "file": "assets/sprites/shore/shore_05.png",
+   "w": 187,
+   "h": 128
+  },
+  {
+   "index": 6,
+   "file": "assets/sprites/shore/shore_06.png",
+   "w": 182,
+   "h": 128
+  },
+  {
+   "index": 7,
+   "file": "assets/sprites/shore/shore_07.png",
+   "w": 182,
+   "h": 125
+  },
+  {
+   "index": 8,
+   "file": "assets/sprites/shore/shore_08.png",
+   "w": 282,
+   "h": 100
+  },
+  {
+   "index": 9,
+   "file": "assets/sprites/shore/shore_09.png",
+   "w": 146,
+   "h": 70
+  },
+  {
+   "index": 10,
+   "file": "assets/sprites/shore/shore_10.png",
+   "w": 106,
+   "h": 63
+  },
+  {
+   "index": 11,
+   "file": "assets/sprites/shore/shore_11.png",
+   "w": 121,
+   "h": 70
+  },
+  {
+   "index": 12,
+   "file": "assets/sprites/shore/shore_12.png",
+   "w": 174,
+   "h": 83
+  },
+  {
+   "index": 13,
+   "file": "assets/sprites/shore/shore_13.png",
+   "w": 126,
+   "h": 72
+  },
+  {
+   "index": 14,
+   "file": "assets/sprites/shore/shore_14.png",
+   "w": 137,
+   "h": 86
+  },
+  {
+   "index": 15,
+   "file": "assets/sprites/shore/shore_15.png",
+   "w": 113,
+   "h": 54
+  },
+  {
+   "index": 16,
+   "file": "assets/sprites/shore/shore_16.png",
+   "w": 130,
+   "h": 96
+  },
+  {
+   "index": 17,
+   "file": "assets/sprites/shore/shore_17.png",
+   "w": 89,
+   "h": 49
+  },
+  {
+   "index": 18,
+   "file": "assets/sprites/shore/shore_18.png",
+   "w": 156,
+   "h": 94
+  },
+  {
+   "index": 19,
+   "file": "assets/sprites/shore/shore_19.png",
+   "w": 78,
+   "h": 49
+  },
+  {
+   "index": 20,
+   "file": "assets/sprites/shore/shore_20.png",
+   "w": 67,
+   "h": 41
+  },
+  {
+   "index": 21,
+   "file": "assets/sprites/shore/shore_21.png",
+   "w": 83,
+   "h": 50
+  },
+  {
+   "index": 22,
+   "file": "assets/sprites/shore/shore_22.png",
+   "w": 165,
+   "h": 93
+  },
+  {
+   "index": 23,
+   "file": "assets/sprites/shore/shore_23.png",
+   "w": 80,
+   "h": 52
+  },
+  {
+   "index": 24,
+   "file": "assets/sprites/shore/shore_24.png",
+   "w": 163,
+   "h": 100
+  },
+  {
+   "index": 25,
+   "file": "assets/sprites/shore/shore_25.png",
+   "w": 64,
+   "h": 41
+  },
+  {
+   "index": 26,
+   "file": "assets/sprites/shore/shore_26.png",
+   "w": 71,
+   "h": 48
+  },
+  {
+   "index": 27,
+   "file": "assets/sprites/shore/shore_27.png",
+   "w": 67,
+   "h": 49
+  },
+  {
+   "index": 28,
+   "file": "assets/sprites/shore/shore_28.png",
+   "w": 154,
+   "h": 113
+  },
+  {
+   "index": 29,
+   "file": "assets/sprites/shore/shore_29.png",
+   "w": 75,
+   "h": 53
+  },
+  {
+   "index": 30,
+   "file": "assets/sprites/shore/shore_30.png",
+   "w": 67,
+   "h": 44
+  },
+  {
+   "index": 31,
+   "file": "assets/sprites/shore/shore_31.png",
+   "w": 138,
+   "h": 101
+  },
+  {
+   "index": 32,
+   "file": "assets/sprites/shore/shore_32.png",
+   "w": 75,
+   "h": 43
+  },
+  {
+   "index": 33,
+   "file": "assets/sprites/shore/shore_33.png",
+   "w": 75,
+   "h": 44
+  },
+  {
+   "index": 34,
+   "file": "assets/sprites/shore/shore_34.png",
+   "w": 142,
+   "h": 91
+  },
+  {
+   "index": 35,
+   "file": "assets/sprites/shore/shore_35.png",
+   "w": 62,
+   "h": 47
+  },
+  {
+   "index": 36,
+   "file": "assets/sprites/shore/shore_36.png",
+   "w": 202,
+   "h": 72
+  },
+  {
+   "index": 37,
+   "file": "assets/sprites/shore/shore_37.png",
+   "w": 231,
+   "h": 71
+  },
+  {
+   "index": 38,
+   "file": "assets/sprites/shore/shore_38.png",
+   "w": 156,
+   "h": 63
+  },
+  {
+   "index": 39,
+   "file": "assets/sprites/shore/shore_39.png",
+   "w": 147,
+   "h": 48
+  },
+  {
+   "index": 40,
+   "file": "assets/sprites/shore/shore_40.png",
+   "w": 158,
+   "h": 58
+  },
+  {
+   "index": 41,
+   "file": "assets/sprites/shore/shore_41.png",
+   "w": 108,
+   "h": 48
+  },
+  {
+   "index": 42,
+   "file": "assets/sprites/shore/shore_42.png",
+   "w": 81,
+   "h": 38
+  },
+  {
+   "index": 43,
+   "file": "assets/sprites/shore/shore_43.png",
+   "w": 132,
+   "h": 47
+  },
+  {
+   "index": 44,
+   "file": "assets/sprites/shore/shore_44.png",
+   "w": 104,
+   "h": 40
+  },
+  {
+   "index": 45,
+   "file": "assets/sprites/shore/shore_45.png",
+   "w": 163,
+   "h": 70
+  },
+  {
+   "index": 46,
+   "file": "assets/sprites/shore/shore_46.png",
+   "w": 103,
+   "h": 100
+  },
+  {
+   "index": 47,
+   "file": "assets/sprites/shore/shore_47.png",
+   "w": 201,
+   "h": 73
+  },
+  {
+   "index": 48,
+   "file": "assets/sprites/shore/shore_48.png",
+   "w": 141,
+   "h": 109
+  },
+  {
+   "index": 49,
+   "file": "assets/sprites/shore/shore_49.png",
+   "w": 119,
+   "h": 108
+  },
+  {
+   "index": 50,
+   "file": "assets/sprites/shore/shore_50.png",
+   "w": 164,
+   "h": 71
+  },
+  {
+   "index": 51,
+   "file": "assets/sprites/shore/shore_51.png",
+   "w": 163,
+   "h": 67
+  },
+  {
+   "index": 52,
+   "file": "assets/sprites/shore/shore_52.png",
+   "w": 106,
+   "h": 103
+  },
+  {
+   "index": 53,
+   "file": "assets/sprites/shore/shore_53.png",
+   "w": 154,
+   "h": 61
+  },
+  {
+   "index": 54,
+   "file": "assets/sprites/shore/shore_54.png",
+   "w": 137,
+   "h": 55
+  },
+  {
+   "index": 55,
+   "file": "assets/sprites/shore/shore_55.png",
+   "w": 127,
+   "h": 116
+  },
+  {
+   "index": 56,
+   "file": "assets/sprites/shore/shore_56.png",
+   "w": 150,
+   "h": 59
+  },
+  {
+   "index": 57,
+   "file": "assets/sprites/shore/shore_57.png",
+   "w": 58,
+   "h": 28
+  },
+  {
+   "index": 58,
+   "file": "assets/sprites/shore/shore_58.png",
+   "w": 147,
+   "h": 62
+  },
+  {
+   "index": 59,
+   "file": "assets/sprites/shore/shore_59.png",
+   "w": 41,
+   "h": 27
+  },
+  {
+   "index": 60,
+   "file": "assets/sprites/shore/shore_60.png",
+   "w": 161,
+   "h": 58
+  },
+  {
+   "index": 61,
+   "file": "assets/sprites/shore/shore_61.png",
+   "w": 77,
+   "h": 37
+  },
+  {
+   "index": 62,
+   "file": "assets/sprites/shore/shore_62.png",
+   "w": 143,
+   "h": 57
+  },
+  {
+   "index": 63,
+   "file": "assets/sprites/shore/shore_63.png",
+   "w": 51,
+   "h": 32
+  },
+  {
+   "index": 64,
+   "file": "assets/sprites/shore/shore_64.png",
+   "w": 119,
+   "h": 85
+  },
+  {
+   "index": 65,
+   "file": "assets/sprites/shore/shore_65.png",
+   "w": 137,
+   "h": 70
+  },
+  {
+   "index": 66,
+   "file": "assets/sprites/shore/shore_66.png",
+   "w": 140,
+   "h": 103
+  },
+  {
+   "index": 67,
+   "file": "assets/sprites/shore/shore_67.png",
+   "w": 82,
+   "h": 64
+  },
+  {
+   "index": 68,
+   "file": "assets/sprites/shore/shore_68.png",
+   "w": 113,
+   "h": 97
+  },
+  {
+   "index": 69,
+   "file": "assets/sprites/shore/shore_69.png",
+   "w": 82,
+   "h": 68
+  },
+  {
+   "index": 70,
+   "file": "assets/sprites/shore/shore_70.png",
+   "w": 86,
+   "h": 73
+  },
+  {
+   "index": 71,
+   "file": "assets/sprites/shore/shore_71.png",
+   "w": 88,
+   "h": 66
+  },
+  {
+   "index": 72,
+   "file": "assets/sprites/shore/shore_72.png",
+   "w": 96,
+   "h": 78
+  }
+ ],
+ "wooden": [
+  {
+   "index": 0,
+   "file": "assets/sprites/wooden/wooden_00.png",
+   "w": 188,
+   "h": 128
+  },
+  {
+   "index": 1,
+   "file": "assets/sprites/wooden/wooden_01.png",
+   "w": 353,
+   "h": 179
+  },
+  {
+   "index": 2,
+   "file": "assets/sprites/wooden/wooden_02.png",
+   "w": 335,
+   "h": 121
+  },
+  {
+   "index": 3,
+   "file": "assets/sprites/wooden/wooden_03.png",
+   "w": 225,
+   "h": 102
+  },
+  {
+   "index": 4,
+   "file": "assets/sprites/wooden/wooden_04.png",
+   "w": 196,
+   "h": 98
+  },
+  {
+   "index": 5,
+   "file": "assets/sprites/wooden/wooden_05.png",
+   "w": 339,
+   "h": 111
+  },
+  {
+   "index": 6,
+   "file": "assets/sprites/wooden/wooden_06.png",
+   "w": 372,
+   "h": 95
+  },
+  {
+   "index": 7,
+   "file": "assets/sprites/wooden/wooden_07.png",
+   "w": 325,
+   "h": 107
+  },
+  {
+   "index": 8,
+   "file": "assets/sprites/wooden/wooden_08.png",
+   "w": 218,
+   "h": 110
+  },
+  {
+   "index": 9,
+   "file": "assets/sprites/wooden/wooden_09.png",
+   "w": 92,
+   "h": 110
+  },
+  {
+   "index": 10,
+   "file": "assets/sprites/wooden/wooden_10.png",
+   "w": 83,
+   "h": 110
+  },
+  {
+   "index": 11,
+   "file": "assets/sprites/wooden/wooden_11.png",
+   "w": 88,
+   "h": 88
+  },
+  {
+   "index": 12,
+   "file": "assets/sprites/wooden/wooden_12.png",
+   "w": 85,
+   "h": 112
+  },
+  {
+   "index": 13,
+   "file": "assets/sprites/wooden/wooden_13.png",
+   "w": 67,
+   "h": 73
+  },
+  {
+   "index": 14,
+   "file": "assets/sprites/wooden/wooden_14.png",
+   "w": 113,
+   "h": 104
+  },
+  {
+   "index": 15,
+   "file": "assets/sprites/wooden/wooden_15.png",
+   "w": 103,
+   "h": 113
+  },
+  {
+   "index": 16,
+   "file": "assets/sprites/wooden/wooden_16.png",
+   "w": 89,
+   "h": 84
+  },
+  {
+   "index": 17,
+   "file": "assets/sprites/wooden/wooden_17.png",
+   "w": 97,
+   "h": 68
+  },
+  {
+   "index": 18,
+   "file": "assets/sprites/wooden/wooden_18.png",
+   "w": 204,
+   "h": 103
+  },
+  {
+   "index": 19,
+   "file": "assets/sprites/wooden/wooden_19.png",
+   "w": 99,
+   "h": 69
+  },
+  {
+   "index": 20,
+   "file": "assets/sprites/wooden/wooden_20.png",
+   "w": 67,
+   "h": 54
+  },
+  {
+   "index": 21,
+   "file": "assets/sprites/wooden/wooden_21.png",
+   "w": 75,
+   "h": 92
+  },
+  {
+   "index": 22,
+   "file": "assets/sprites/wooden/wooden_22.png",
+   "w": 78,
+   "h": 73
+  },
+  {
+   "index": 23,
+   "file": "assets/sprites/wooden/wooden_23.png",
+   "w": 104,
+   "h": 236
+  },
+  {
+   "index": 24,
+   "file": "assets/sprites/wooden/wooden_24.png",
+   "w": 62,
+   "h": 93
+  },
+  {
+   "index": 25,
+   "file": "assets/sprites/wooden/wooden_25.png",
+   "w": 109,
+   "h": 98
+  },
+  {
+   "index": 26,
+   "file": "assets/sprites/wooden/wooden_26.png",
+   "w": 86,
+   "h": 84
+  },
+  {
+   "index": 27,
+   "file": "assets/sprites/wooden/wooden_27.png",
+   "w": 185,
+   "h": 93
+  },
+  {
+   "index": 28,
+   "file": "assets/sprites/wooden/wooden_28.png",
+   "w": 212,
+   "h": 93
+  },
+  {
+   "index": 29,
+   "file": "assets/sprites/wooden/wooden_29.png",
+   "w": 245,
+   "h": 85
+  },
+  {
+   "index": 30,
+   "file": "assets/sprites/wooden/wooden_30.png",
+   "w": 165,
+   "h": 97
+  },
+  {
+   "index": 31,
+   "file": "assets/sprites/wooden/wooden_31.png",
+   "w": 97,
+   "h": 77
+  },
+  {
+   "index": 32,
+   "file": "assets/sprites/wooden/wooden_32.png",
+   "w": 222,
+   "h": 64
+  },
+  {
+   "index": 33,
+   "file": "assets/sprites/wooden/wooden_33.png",
+   "w": 247,
+   "h": 63
+  },
+  {
+   "index": 34,
+   "file": "assets/sprites/wooden/wooden_34.png",
+   "w": 166,
+   "h": 77
+  }
+ ]
+}
