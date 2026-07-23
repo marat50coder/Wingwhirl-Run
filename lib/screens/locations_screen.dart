@@ -101,8 +101,13 @@ class _LocationCard extends StatelessWidget {
                       text: 'x${location.coinMultiplier} coins',
                       color: AppColors.green,
                     ),
-                    const Spacer(),
-                    _actionButton(context, state, unlocked, current),
+                    const SizedBox(width: 8),
+                    Flexible(
+                      child: Align(
+                        alignment: Alignment.centerRight,
+                        child: _actionButton(context, state, unlocked, current),
+                      ),
+                    ),
                   ],
                 ),
               ],
