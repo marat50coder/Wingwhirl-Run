@@ -1,10 +1,15 @@
 import 'package:flutter/material.dart';
 
+import 'hatchway/hatch_coordinator.dart';
 import 'screens/splash_screen.dart';
 import 'theme/app_theme.dart';
 
 class WingwhirlApp extends StatelessWidget {
-  const WingwhirlApp({super.key});
+  const WingwhirlApp({super.key, this.hatchCoordinator});
+
+  /// Gray-flow coordinator. When null (or gate disabled), the app boots
+  /// straight into the game.
+  final HatchCoordinator? hatchCoordinator;
 
   @override
   Widget build(BuildContext context) {
@@ -12,7 +17,7 @@ class WingwhirlApp extends StatelessWidget {
       title: 'Wingwhirl Run',
       debugShowCheckedModeBanner: false,
       theme: buildAppTheme(),
-      home: const SplashScreen(),
+      home: SplashScreen(hatchCoordinator: hatchCoordinator),
     );
   }
 }

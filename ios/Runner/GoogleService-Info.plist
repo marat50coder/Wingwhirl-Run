@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBAKo6Rbvl4QJGOq704wG_WAVZ-LD8Ad0M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1076585938461</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wingwhirl.rungame</string>
+	<key>PROJECT_ID</key>
+	<string>wingwhirlrun</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wingwhirlrun.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1076585938461:ios:3808bf72cd98a558af50f4</string>
+</dict>
+</plist>
